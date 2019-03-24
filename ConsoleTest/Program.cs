@@ -11,6 +11,9 @@ namespace ConsoleTest
         static void Main(string[] args)
         {
             Console.WriteLine("test on feature branch");
+
+            Console.WriteLine("Another test");
+            Console.WriteLine("Yet another test");
         }
     }
 }
